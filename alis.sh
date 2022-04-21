@@ -36,9 +36,8 @@ set -eu
 # Script to install an Arch Linux system.
 #
 # Usage:
-# # loadkeys es
-# # curl https://raw.githubusercontent.com/picodotdev/alis/master/download.sh | bash
-# # vim alis.conf
+# # loadkeys en
+# # curl https://raw.githubusercontent.com/d3rpp/alis/master/download.sh | bash
 # # ./alis.sh
 
 function init_config() {
